@@ -5,6 +5,7 @@ My first repository bro!
 
 I love :coffee: :smile:.
 
-- [x] @ZsirosB    **Helószia :smile:**
-- [x] Gokart team jelentkezés
-- [ ] Gokart kész van
+- [ ] @ZsirosB    **Helószia :smile:**
+
+Rakj bele egy x-et ha itt vagy :wink: **#Git**
+
